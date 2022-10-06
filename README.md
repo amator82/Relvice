@@ -1,2 +1,2 @@
-# 02_Relvice
- HTML/CSS/JS
+# Relvice
+Some simple website
